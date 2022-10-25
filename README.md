@@ -14,4 +14,4 @@ ax.plot(seattle_weather["MONTH"], seattle_weather["MLY-PRCP-NORMAL"])
 ax.plot(austin_weather["MONTH"], austin_weather["MLY-PRCP-NORMAL"])
 
 ```
-https://github.com/nevinmur/nevinmur.github.io/issues/2#issue-1423009415
+![Capture](https://user-images.githubusercontent.com/43359238/197871742-e775dd3d-65f6-48f5-aa9e-e4b8ac81b5a5.JPG)
