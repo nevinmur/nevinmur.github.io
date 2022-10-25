@@ -19,3 +19,6 @@ Inline `code` has `back-ticks around` it.
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
+var s = "JavaScript syntax highlighting";
+alert(s);
