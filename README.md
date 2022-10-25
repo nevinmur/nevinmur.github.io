@@ -1,4 +1,4 @@
-# nevinmur.github.io
+# H1 Introduction to Data Visualization with Matplotlib
 
 #test
 
