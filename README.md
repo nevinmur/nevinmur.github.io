@@ -3,6 +3,7 @@
 ## 1. Introduction to Matplotlib
 
 `import matplotlib.pyplot as plt`
+
 `fig, ax = plt.subplots()`
 
 plt.show()
