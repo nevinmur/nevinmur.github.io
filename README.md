@@ -1,4 +1,4 @@
-                                              # Introduction to Data Visualization with Matplotlib
+                                              # Introduction to Data Visualization with Matplotlib #
 
 ## 1. Introduction to Matplotlib
 
