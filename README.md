@@ -1,19 +1,9 @@
-                                              # Introduction to Data Visualization with Matplotlib #
+# Introduction to Data Visualization with Matplotlib 
 
 ## 1. Introduction to Matplotlib
-
-
-`import matplotlib.pyplot as plt`
-
-`fig, ax = plt.subplots()`
-
-plt.show()
-
-```python
-s = "Python syntax highlighting"
-print s
-```
+First you create the figure
 ```
 import matplotlib.pyplot as plt 
 fig, ax = plt.subplots()
 ```
+Then you add the temperratures
