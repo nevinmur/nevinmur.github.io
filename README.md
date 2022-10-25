@@ -13,3 +13,7 @@ plt.show()
 s = "Python syntax highlighting"
 print s
 ```
+```
+import matplotlib.pyplot as plt 
+fig, ax = plt.subplots()
+```
