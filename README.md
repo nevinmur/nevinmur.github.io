@@ -25,6 +25,7 @@ ax.plot(austin_weather["MONTH"], austin_weather["MLY-PRCP-NORMAL"], marker="v", 
 
 ```
 *For reeference marker styles https://matplotlib.org/stable/api/markers_api.html*
+
 Add axes labels
 ```
 ax.set_xlabel("Time (months)")
