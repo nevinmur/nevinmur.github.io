@@ -1,5 +1,5 @@
 # Introduction to Data Visualization with Matplotlib 
-
+1. Introduction to Matplotlib
 ## 1. Introduction to Matplotlib
 First you create the figure
 ```
